@@ -1,0 +1,22 @@
+# Courgettesoep
+
+# Ingredienten
+* 2 gesnipperde sjalotjes
+* 500 gram courgettes
+* olijfolie
+* 1 liter kippenbouillion
+* 2 eieren
+* 50 gram gemalen parmezaanse kaas
+* GARNERING:
+* 2 kleine roma tomaatjes, klein gesneden en ontveld en schoongemaakt van zaad en water.
+* 4 eetlepels klein gesneden courgetteblokjes
+* 2 vers gehalkte eetlepels basilicum (tuin)
+* 1 klein fijngehakt knoflookteentje
+* lepel olijfolie
+* peper en zout
+WIJNTIP: Pinot Grigio
+
+# Bereidingswijze
+Doe 1 eetlepel olijfolie in de grote pan en fruit hierin de gesnipperde sjalot todat hij glazig wordt. Voeg daarna de schoongemaakte en van zijn zaadlijsten ontdane courgette toe (grof in blokjes gesneden). Bak deze al roerende gedurende ong. 5 minuten mee. Niet te bruin laten worden dan verbrand de courgette en dit doet afbreuk aan de verfijnde smaak!! Voeg de kippenbouillon toe. Breng dit geheel aan de kook en laat 10 minuten zachtjes doorkoken. Pureer dan de soep met een staafmixer. Zet hem van het vuur af.
+Marineer ondertussen de ingredienten voor de garnering van de soep voor minimaal 10 minuten. Klop de eieren met de Parmezaanse kaas los in een aparte kom. Giet dit mengsel al roerende bij de gepureerde soep. Maak het af met de garnering op het bord bij het opdienen, of zet het apart op tafel erbij. Lekker met Ciabatta brood en zachte kaas of tapenade met knoflook. Drink er de gekoelde Pinot Grigio bij. Smullen & succes verzekerd (wel bij mijn visite!!).
+
