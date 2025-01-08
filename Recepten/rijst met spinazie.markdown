@@ -1,4 +1,6 @@
-# Ispanakli Pilav - Rice with Spinach
+---
+title: Ispanakli Pilav - Rice with Spinach
+---
  
 Serves 4
 Rice dishes feature in a big way in miniatures depicting the feasts and banquets of the Turkish Ottoman Sultans, and one researcher found mentions of 100 in the archives of Topkapi in Istanbul. Yogurt makes a good accompaniment to this simple and delightful one.

@@ -1,4 +1,6 @@
-# Marokkaanse aardappelschotel
+---
+title: Marokkaanse aardappelschotel
+---
 
 # Ingrediënten
 * 1 kilo aardappels

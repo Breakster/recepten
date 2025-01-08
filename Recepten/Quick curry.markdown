@@ -1,4 +1,6 @@
-# Quick curry
+---
+title: Quick curry
+---
 
 # Description
 This is an easy recipe for a curry sauce which you can make into whatever sort of curry you like. The last time I made it I used a drained tin of chick peas to make it a veggie curry and it worked well. The previous time I used chicken and it was just as good. So it's up to you. The recipe makes enough sauce for 2 generous servings.

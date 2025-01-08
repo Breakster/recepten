@@ -1,4 +1,6 @@
-# Ingredienten
+---
+title: Gevulde Aubergines
+---
 * 4 kleine aubergines
 * zonnebloemolie
 * 1 ui, gesnipperd

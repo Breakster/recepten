@@ -1,4 +1,6 @@
-Chocoladeijs, Gelato al cioccolato
+---
+title: Chocoladeijs, Gelato al cioccolato
+---
 * 350 gr volle melk
 * 130 gr slagroom
 * 90 gr suiker

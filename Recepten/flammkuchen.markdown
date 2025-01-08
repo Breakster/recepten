@@ -1,4 +1,6 @@
-Flammkuchen recept
+---
+title: Flammkuchen
+---
 
 Er bestaat (voor zover wij weten) niet zoiets als een ‘officieel’ flammkuchen recept. Er zijn in Frankrijk verschillende recepten in omloop voor het flammkuchendeeg. Wat opvalt is dat vooral de hoeveelheid water en olie in het deeg varieert. We zetten hieronder een paar variaties op een rij.
 

@@ -1,4 +1,6 @@
-# Biefstuk met chimichurri
+---
+title: Biefstuk met chimichurri
+---
 
 # Ingredienten
 * 1 a 2 sjalotten of 1 kleine ui

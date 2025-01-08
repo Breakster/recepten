@@ -1,4 +1,6 @@
-# Rundvleesstoofschotel met krielties
+---
+title: Rundvleesstoofschotel met krielties
+---
 30 minuten, exclusief stooftijd (ongeveer 2 uur) 4 personen, hoofdgerecht
 
 # Benodigdheden

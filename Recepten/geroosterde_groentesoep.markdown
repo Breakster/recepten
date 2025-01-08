@@ -1,4 +1,6 @@
-# Geroosterde groentensoep
+---
+title: Geroosterde Groentensoep
+---
 
 # Ingrediënten voor 4 personen
 * 2 paprika's

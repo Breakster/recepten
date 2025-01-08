@@ -1,4 +1,6 @@
-# Zomerse maaltijdsalade met kip en kerriedressing
+---
+title: Zomerse maaltijdsalade met kip en kerriedressing
+---
 
 # Ingrediënten
 * 2 handen fijngesneden ijsbergsla
@@ -11,7 +13,8 @@
 * 200 gram gerookte kip
 * halve geschilde avocado
 * een aantal sprieten bieslook
-* voor de dressing:
+
+# voor de dressing
 * 100 ml magere yoghurt
 * 100 ml slasaus (of mayonaise)
 * 1 grote tl garam massala

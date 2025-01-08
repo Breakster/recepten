@@ -1,6 +1,6 @@
-# Chicken pasanda
-
-# Description
+---
+title: Chicken pasanda
+---
 This could be described as a "Royal" dish. It is spicy, but not hot, rich and creamy. The addition of the nuts makes it rather special.
 
 # Ingredients

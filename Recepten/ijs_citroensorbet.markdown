@@ -1,4 +1,6 @@
-Citroensorbet, Sorbetto al limone
+---
+title: Citroensorbet, Sorbetto al limone
+---
 * 200 gr suiker
 * 200 gr water
 * 200 gr citroensap

@@ -1,7 +1,9 @@
-# Dutch apple pie
+---
+title: Dutch apple pie
+---
 
 # Ingredients
-## For the dough
+# For the dough
 * 300g flour
 * 200g butter
 * 175g caster sugar (the slightly sticky stuff)
@@ -9,7 +11,7 @@
 * 1 sachet vanilla sugar (8g)
 * 1 small egg, beaten
 
-## For the filling
+# For the filling
 * 750g - 1kg hard sour apples
 * peel of 1/2 lemon, grated
 * 1 tablespoon lemon juice

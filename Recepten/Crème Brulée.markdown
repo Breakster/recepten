@@ -1,4 +1,6 @@
-# Crème Brulée
+---
+title: Crème Brulée
+---
 
 # Ingredienten
 * 1 vanillestokje

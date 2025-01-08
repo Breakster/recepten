@@ -1,4 +1,6 @@
-# Karamelijs, Gelato al caramello
+---
+title: Karamelijs, Gelato al caramello
+---
 * 100 gr fijne kristalsuiker
 * 40 gr water
 * (3 eierdooiers, losgeklopt, Ik vind vgm lekkerder zonder ei)

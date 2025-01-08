@@ -1,4 +1,6 @@
-# Gevulde aubergines met gehakt
+---
+title: Gevulde aubergines met gehakt
+---
 
 # Ingrediënten
 * 2 eetlepels olijfolie

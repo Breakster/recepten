@@ -31,5 +31,9 @@ main = hakyllWith myConfiguration $ do
 
   match "templates/*" $ compile templateBodyCompiler
 
+  match "style.css" $ do
+    route idRoute
+    compile copyFileCompiler
+
 recipeCtx :: Context String
 recipeCtx = defaultContext

@@ -1,4 +1,6 @@
-# Kipsalade met mango en walnotensaus
+---
+title: Kipsalade met mango en walnotensaus
+---
 
 # Ingrediënten
 

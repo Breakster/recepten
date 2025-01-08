@@ -1,4 +1,7 @@
- I recently received in the post my annual delivery of cobnuts from Allen's Farm in Kent. In late autumn, they have a wonderful, golden-maroon husk, and are easy and delicious to crack and eat as a snack. Stored in a sealed container, they should keep for a couple of months. Cobnuts have a fresher flavour than any other nut I know of, and go very well with autumnal fruit and light cheeses. Here, I roast them very slowly to make them totally crunchy and enhance their flavour. Normal hazelnuts make a perfectly fine substitute. Serves six to eight.
+---
+title: Sort of Waldorf
+---
+I recently received in the post my annual delivery of cobnuts from Allen's Farm in Kent. In late autumn, they have a wonderful, golden-maroon husk, and are easy and delicious to crack and eat as a snack. Stored in a sealed container, they should keep for a couple of months. Cobnuts have a fresher flavour than any other nut I know of, and go very well with autumnal fruit and light cheeses. Here, I roast them very slowly to make them totally crunchy and enhance their flavourtitle: Normal hazelnuts make a perfectly fine substitute. Serves six to eight.
 
 * 100g cobnuts, shelled weight
 * ½ red cabbage (about 300g), finely shredded

@@ -1,4 +1,8 @@
-# Mrs H.S.Ball's Blatjang Die oorspronklike resep soos opgespoor deur SARIE
+---
+title: Mrs H.S.Ball's Blatjang
+---
+Die oorspronklike resep soos opgespoor deur SARIE
+
 * 612 gram droëperskes
 * 238 gram gedroogde appelkose
 * 3 liter bruin druiweasyn

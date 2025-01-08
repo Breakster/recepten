@@ -1,4 +1,6 @@
-# Omschrijving
+---
+title: Moussaka
+---
 Traditionele Griekse lunch-schotel waarin gehakt,
 aardappel en aubergine gecombineerd met pittige
 kruiden en een rijke saus een subliem geheel vormen.
@@ -14,7 +16,7 @@ gerecht is de moeite en tijd zeker waard.
 * 100 gram pittige geraspte belegen kaas en
 * 25 gram geraspte parmezaanse kaas (door elkaar mengen)
 
-## Voor de gehaktsaus
+# Voor de gehaktsaus
 * 750 gram lams-gehakt,
 * 6 middelgrote uien, in de lengte in partjes gesneden,
 * 4 dikke teentjes knoflook, kleingesneden of uitgeperst,
@@ -30,7 +32,7 @@ gerecht is de moeite en tijd zeker waard.
 * 1/4 bouillonblokje,
 * zout en peper naar smaak.
 
-## Voor de veredelde bechamelsaus
+# Voor de veredelde bechamelsaus
 * 60 gram boter,
 * ongeveer 80 gram bloem,
 * een halve tot een liter melk,
@@ -50,17 +52,17 @@ bouillonblokje; aan de kook brengen, daarna vuur laag draaien. Verder sudderen
 op laag vuur (ongeveer 2 uur) tot alle vocht bijna verdwenen is (hoe minder
 vocht, hoe steviger het gerecht). En dan terwijl deze heerlijke saus suddert:
 
-## Aardappelen voorbereiden:
+# Aardappelen voorbereiden:
 Aardappelen schillen; In kokend water 10 minuten voorkoken; Laten afkoelen en
 in plakjes van 5 millimeter snijden.
 
-## Aubergines voorbereiden:
+# Aubergines voorbereiden:
 Aubergines afspoelen; In plakken van 6 millimeter snijden, besprenkelen met
 citroen tegen verkleuren; Plakjes in diep bord in olijfolie drenken; Op heet
 vuur in koekenpan langs beide kanten bakken tot er bruine vlekjes op ontstaan,
 Laten uitlekken op keukenpapier of doek.
 
-## Bechamelsaus voorbereiden:
+# Bechamelsaus voorbereiden:
 Boter in pannetje met dikke bodem smelten Bloem toevoegen, beetje bij beetje
 tot het een dikke brij vormt, tegen het droge aan, net niet kruimelig. Zeer
 kort bakken om bindkracht van meel te bewaren. In een keer een halve liter
@@ -80,7 +82,7 @@ kaas; Weer een laag aubergine; Weer een laag gehaktsaus, etc. tot alles op is
 behalve geraspte kaas geheel bedekken met bechamelsaus en daarover heen een
 flinke laag (de rest) geraspte kaas.
 
-## Uiteindelijk:
+# Uiteindelijk:
 3/4 uur a 1 uur in de oven laten garen tot er een goud korstje ontstaat
 bovenop. Opdienen met een Griekse salade. Smullen en genieten van de
 complimenten.

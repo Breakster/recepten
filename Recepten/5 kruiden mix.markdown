@@ -1,4 +1,6 @@
-# 5 kruiden mix
+---
+title: 5 kruiden mix
+---
 
 # Ingredienten
 
