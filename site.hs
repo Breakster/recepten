@@ -14,7 +14,6 @@ main = hakyllWith myConfiguration $ do
     route idRoute
     compile $ do
       recipes <- loadAll "Recepten/*"
-      return $ trace (show $ length recipes) 1
       let indexCtx =
             listField "recipes" recipeCtx (return recipes)
             `mappend` defaultContext
@@ -28,6 +27,7 @@ main = hakyllWith myConfiguration $ do
     compile $ pandocCompiler
       >>= loadAndApplyTemplate "templates/recipe.html" recipeCtx
       >>= loadAndApplyTemplate "templates/default.html" recipeCtx
+      >>= relativizeUrls
 
   match "templates/*" $ compile templateBodyCompiler
 
