@@ -9,6 +9,8 @@ Ideeen om deze site uit te breiden:
 * Categorieen (geen idee hoe).
 * Zoek functionaliteit.
 * Recepten zijn overal zichtbaar in een zijbalk.
+* Recepten die niet html zijn (bv. pdf bestanden).
+* Optie die het scherm aan laat staan.
 * Meer ideeen zijn welkom.
 
 Als je wil dat ik een recept toe voeg bied het dan aan in markdown formaat:

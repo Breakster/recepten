@@ -1,13 +1,7 @@
 html {
     font-family: "Roboto Mono", monospace;
     /* font-family: sans-serif; */
-    font-size: 14pt;
-}
-
-@media only screen and (max-width: 600px) {
-  html {
-    font-size: 20pt;
-  }
+    font-size: 12pt;
 }
 
 body {
