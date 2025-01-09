@@ -1,8 +1,8 @@
 ---
 title: Spinach with Chickpeas
 ---
-
 Serves 6
+
 The combination of spinach with chickpeas is common throughout the Middle East, but the flavors here are Egyptian. You may use good-quality canned chickpeas. It is good served with yogurt.
 
 * 1/2 cup chickpeas, soaked overnight, or a 14-ounce can cooked chickpeas

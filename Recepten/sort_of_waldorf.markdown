@@ -27,4 +27,4 @@ Put the shallot, egg yolk, mustard, maple, vinegar and half a teaspoon of salt i
 
 Put the cabbage, celery, apples and onion in a large mixing bowl. Add the soured cream, dill, mayo, sour cherries (if using), and some salt and black pepper. Use your hands to mix everything together thoroughly (don't mind if you break the apple slices; it's all part of the look). Taste and adjust the seasoning accordingly, transfer to individual plates and scatter nuts on top before serving.
 
-Bron: https://www.theguardian.com/global/2009/oct/31/cobnut-waldorf-recipe-vegetarian-yotam-ottolenghi
+Bron: <https://www.theguardian.com/global/2009/oct/31/cobnut-waldorf-recipe-vegetarian-yotam-ottolenghi>

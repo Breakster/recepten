@@ -29,6 +29,12 @@ main = hakyllWith myConfiguration $ do
       >>= loadAndApplyTemplate "templates/default.html" recipeCtx
       >>= relativizeUrls
 
+  match "about.markdown" $ do
+    route $ setExtension "html"
+    compile $ pandocCompiler
+      >>= loadAndApplyTemplate "templates/default.html" recipeCtx
+      >>= relativizeUrls
+
   match "templates/*" $ compile templateBodyCompiler
 
   match "style.css" $ do

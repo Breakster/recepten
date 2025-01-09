@@ -38,4 +38,4 @@ Snijd de champignons fijn. Verhit een scheutje olijfolie in een bakpan. Pel de k
 # Groene salade
 Pluk de botersla. Snijd de komkommer in dunne plakken. Meng de botersla, rucola en komkommer en breng op smaak met olijfolie, een beetje zout en peper.
 
-Bron: https://web.archive.org/web/20161028193357/http://www.24kitchen.nl/recepten/polpettone-alla-giovanni-con-funghi-gehaktbal-met-champignonsaus
+Bron: <https://web.archive.org/web/20161028193357/http://www.24kitchen.nl/recepten/polpettone-alla-giovanni-con-funghi-gehaktbal-met-champignonsaus>

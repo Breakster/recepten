@@ -6,4 +6,4 @@ title: Chocoladeijs, Gelato al cioccolato
 * 90 gr suiker
 * 40 gr cacao
 
-Bron: https://alleitaliaanse.nl/ijs-maken/chocolade-ijs
+Bron: <https://alleitaliaanse.nl/ijs-maken/chocolade-ijs>

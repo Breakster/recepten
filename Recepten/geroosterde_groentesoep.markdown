@@ -20,4 +20,4 @@ Leg de groenten op een bakplaat. Drizzle olie overheen. Breng op smaak met een t
 Voeg zout en peper toe en pureer tot de gewenste dikte.
 Verdeel de geroosterde tomatensoep over 4 kommen en garneer naar wens met chili flakes, mascropone, ricotta of kruiden als basilicum of peterselie.
 
-Bron: https://uitpaulineskeuken.nl/recept/geroosterde-tomatensoep
+Bron: <https://uitpaulineskeuken.nl/recept/geroosterde-tomatensoep>

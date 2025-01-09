@@ -12,4 +12,4 @@ Voeg de geraspte schil van een halve citroen toe en kook een paar minuten. Haal
 vervolgens de pan van het vuur en laat een half uur afkoelen op
 kamertemperatuur. Meng alle ingredienten, en stop het in de ijsmachine.
 
-Bron: https://alleitaliaanse.nl/ijs-maken/citroen-sorbetijs
+Bron: <https://alleitaliaanse.nl/ijs-maken/citroen-sorbetijs>
