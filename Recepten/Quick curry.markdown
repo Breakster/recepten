@@ -21,4 +21,4 @@ This is an easy recipe for a curry sauce which you can make into whatever sort o
 # Method
 Heat the oil over a highish heat and add the onions. Stir fry for a few minutes then add the chillies and cardamons and fry for a few more minutes until the spices have increased in size. Add the garlic, stir, turn the heat down to low and cook for 10 minutes (or longer if you've got the time). Add the cumin, coriander, ginger and turmeric and leave to fry over a low heat for 2 or 3 minutes, stirring occasionally. Add about 10 fl.oz. hot water, the tomato puree and the salt and leave to simmer for 30 minutes. If you are using chicken then add it now, cut into bite size pieces. Stir the sauce from time to time and add a little hot water if necessary. If you are using the fenugreek leaves add them 10 minutes before the end of the cooking. If you are making a chick pea curry add them now too. At the end of the cooking there should be hardly any liquid left just a thick, hot sauce.
 
-Taken from <http://curryhouse.co.uk> (But I cannot find it there anymore)
+Source: <http://www.curryhouse.co.uk/rsc/quick.htm>, David Smith 1998 (Taken down since)

@@ -8,7 +8,8 @@ body {
     max-width: 960px;
     margin: 0 auto 0 auto;
     padding: 0 1em 0 1em;
-    background: lightyellow;
+    /* background: lightyellow; */
+    background: #f9f5d7;
 }
 
 h1 {
@@ -48,7 +49,8 @@ footer {
 }
 
 li {
-    padding: .2em 0;
+    padding-top:0.1em;
+    list-style:circle;
 }
 
 h1 { font-size: 140%; }
