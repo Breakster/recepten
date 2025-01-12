@@ -3,7 +3,7 @@ title: Appeltaart
 ---
 Voor een springvorm van 24 cm middellijn
 
-voorverwarmen en bakken: op 200-225 C 
+voorverwarmen en bakken: op 200-225 °C
 
 plaats van het ovenrooster: op de onderste richel van de oven
 
