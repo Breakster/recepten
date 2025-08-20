@@ -41,5 +41,9 @@ main = hakyllWith myConfiguration $ do
     route idRoute
     compile copyFileCompiler
 
+  match "robots.txt" $ do
+    route idRoute
+    compile copyFileCompiler
+
 recipeCtx :: Context String
 recipeCtx = defaultContext
