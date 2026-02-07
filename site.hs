@@ -1,39 +1,43 @@
 {-# LANGUAGE OverloadedStrings #-}
+
 import Data.Monoid (mappend)
-import Hakyll
 import Debug.Trace
+import Hakyll
 
 myConfiguration :: Configuration
-myConfiguration = defaultConfiguration {
-  destinationDirectory = "docs"
-}
+myConfiguration =
+  defaultConfiguration
+    { destinationDirectory = "docs"
+    }
 
 main :: IO ()
 main = hakyllWith myConfiguration $ do
   match "index.html" $ do
     route idRoute
     compile $ do
-      recipes <- loadAll "Recepten/*"
+      recipes <- loadAll "Recepten/*markdown"
       let indexCtx =
             listField "recipes" recipeCtx (return recipes)
-            `mappend` defaultContext
+              `mappend` defaultContext
       getResourceBody
         >>= applyAsTemplate indexCtx
         >>= loadAndApplyTemplate "templates/default.html" defaultContext
         >>= relativizeUrls
 
   match "Recepten/*markdown" $ do
-    route   $ setExtension "html"
-    compile $ pandocCompiler
-      >>= loadAndApplyTemplate "templates/recipe.html" recipeCtx
-      >>= loadAndApplyTemplate "templates/default.html" recipeCtx
-      >>= relativizeUrls
+    route $ setExtension "html"
+    compile $
+      pandocCompiler
+        >>= loadAndApplyTemplate "templates/recipe.html" recipeCtx
+        >>= loadAndApplyTemplate "templates/default.html" recipeCtx
+        >>= relativizeUrls
 
   match "about.markdown" $ do
     route $ setExtension "html"
-    compile $ pandocCompiler
-      >>= loadAndApplyTemplate "templates/default.html" recipeCtx
-      >>= relativizeUrls
+    compile $
+      pandocCompiler
+        >>= loadAndApplyTemplate "templates/default.html" recipeCtx
+        >>= relativizeUrls
 
   match "templates/*" $ compile templateBodyCompiler
 
@@ -42,6 +46,10 @@ main = hakyllWith myConfiguration $ do
     compile copyFileCompiler
 
   match "robots.txt" $ do
+    route idRoute
+    compile copyFileCompiler
+
+  match "Recepten/*pdf" $ do
     route idRoute
     compile copyFileCompiler
 
